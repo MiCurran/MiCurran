@@ -1,5 +1,5 @@
 ### Hi I'm Michael 👋
-👨🏽‍💻 I am a developer who is currently working and learning and growing their skillset. I am passionate about UI/UX design and am fascinated with learning blockchain technology.
+👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset. I am passionate about UI/UX design and am fascinated with learning blockchain technology.
 
 -🏠 Visit my [Portfolio Site](https://michaelcurran.vercel.app) for more about me and contact info
 <!--
