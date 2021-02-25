@@ -1,7 +1,10 @@
 ### Hi I'm Michael 👋
 👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset. I am passionate about UI/UX design and am fascinated with learning blockchain technology.
 
--🏠 Visit my [Portfolio Site](https://michaelcurran.vercel.app) for more about me and contact info
+- ⚡ I enjoy working with React and Nextjs
+- 🌱 I’m currently learning GO
+- 🏠 Visit my [Portfolio Site](https://michaelcurran.vercel.app) for more about me and contact info
+
 <!--
 **MiCurran/MiCurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
