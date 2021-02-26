@@ -5,7 +5,7 @@
  👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset. I am passionate about UI/UX design and am fascinated with learning blockchain technology. 
  
 - ⚡ I enjoy working with React and Nextjs
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" width="30" height="30" /> 
 - 🏠 Visit my [Portfolio Site](https://michaelcurran.vercel.app) for more about me and contact info
 - ![CodeWars Badge](https://www.codewars.com/users/MiCurran/badges/small) Join me on [Code Wars!](https://www.codewars.com/r/yjW6NQ)
 <!--
