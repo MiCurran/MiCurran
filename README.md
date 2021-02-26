@@ -7,7 +7,7 @@
 - ⚡ I enjoy working with React and Nextjs
 - 🌱 I’m currently learning GO
 - 🏠 Visit my [Portfolio Site](https://michaelcurran.vercel.app) for more about me and contact info
-- ![CodeWars Badge](https://www.codewars.com/users/MiCurran/badges/small) Join me on [Code Wars!](www.codewars.com/r/yjW6NQ)
+- ![CodeWars Badge](https://www.codewars.com/users/MiCurran/badges/small) Join me on [Code Wars!](https://www.codewars.com/r/yjW6NQ)
 <!--
 **MiCurran/MiCurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
