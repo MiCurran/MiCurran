@@ -1,8 +1,9 @@
-### Hi I'm Michael 👋
-👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset. I am passionate about UI/UX design and am fascinated with learning blockchain technology. 
+### Hi I'm Michael 👋 
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiCurran&show_icons=true&theme=yeblu)](https://github.com/MiCurran/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+ 👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset. I am passionate about UI/UX design and am fascinated with learning blockchain technology. 
  
 - ⚡ I enjoy working with React and Nextjs
 - 🌱 I’m currently learning GO
