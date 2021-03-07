@@ -2,7 +2,7 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiCurran&show_icons=true&theme=yeblu)](https://github.com/MiCurran/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) 
  
- #### 👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset. I am passionate about UI/UX design and am fascinated with learning blockchain technology. 
+ #### 👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset.
  
 - ⚡ I enjoy working with React and Nextjs
 - 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" width="30" height="30" /> 
