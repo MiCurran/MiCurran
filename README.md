@@ -5,9 +5,10 @@
  #### 👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset.
  
 - ⚡ I enjoy working with React and Nextjs
+- 🔗 I'm fascinated with blockchain technology
 - 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" width="30" height="30" /> 
 - 📝 I blog on [Hashnode](https://hashnode.com/@MiCurran/joinme)
-- 🏠 Visit my [Portfolio Site](https://michaelcurran.vercel.app) for more about me and contact info
+- 🏠 Visit my [Portfolio Site](https://micurran.dev) for more about me and contact info
 - ![CodeWars Badge](https://www.codewars.com/users/MiCurran/badges/small) Join me on [Code Wars!](https://www.codewars.com/r/yjW6NQ)
 <!--
 **MiCurran/MiCurran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
