@@ -1,12 +1,12 @@
-## Hi I'm Michael 👋 
+## Hi I'm Michael 👋 (--Looking for work!--)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiCurran&show_icons=true&theme=yeblu)](https://github.com/MiCurran/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) 
  
  #### 👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset.
  
-- ⚡ I enjoy working with React and Nextjs
-- 🔗 I'm fascinated with blockchain technology
-- 🌱 I’m currently learning <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" width="30" height="30" /> 
+- ⚡ I love working with Nextjs and Jamstack
+- 🔗 I enjoy developing on the Cardano Blockchain in my free time
+- 🐚 I’m currently diving into learning Bash and Shell scripting 
 - 📝 I blog on [Hashnode](https://hashnode.com/@MiCurran/joinme)
 - 🏠 Visit my [Portfolio Site](https://micurran.dev) for more about me and contact info
 - ![CodeWars Badge](https://www.codewars.com/users/MiCurran/badges/small) Join me on [Code Wars!](https://www.codewars.com/r/yjW6NQ)
