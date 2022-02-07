@@ -1,4 +1,4 @@
-## Hi I'm Michael 👋 (--Looking for work!--)
+## Hi I'm Michael 👋
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiCurran&show_icons=true&theme=yeblu)](https://github.com/MiCurran/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats) 
  
