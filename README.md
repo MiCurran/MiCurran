@@ -6,7 +6,7 @@
  
 - ⚡ I love working with Nextjs and Jamstack
 - 🔗 I enjoy developing on the Cardano Blockchain in my free time
-- 🐚 I’m currently diving into learning Bash and Shell scripting 
+- 🐚 I’m currently diving into learning GOlang 
 - 📝 I blog on [Hashnode](https://hashnode.com/@MiCurran/joinme)
 - 🏠 Visit my [Portfolio Site](https://micurran.dev) for more about me and contact info
 - ![CodeWars Badge](https://www.codewars.com/users/MiCurran/badges/small) Join me on [Code Wars!](https://www.codewars.com/r/yjW6NQ)
