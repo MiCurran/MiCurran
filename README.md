@@ -1,10 +1,10 @@
 ## Hi! 👋   
  
- #### 👨🏽‍💻 I am a developer who is currently working, learning and growing their skillset.
+ #### 👨🏽‍💻 I am a developer always learning and growing their skillset.
  
-- ⚡ I love working with Nextjs and Jamstack
-- 🔗 I enjoy developing on the Cardano Blockchain in my free time
-- 🟢 I’m currently diving into learning GOlang 
+- ⚡ I love working with Nextjs and Jamstack  
+- 🟢 I’m currently diving into learning GOlang
+- 🔗 I enjoy developing on the Cardano Blockchain in my free time 
 - 📝 I blog about web dev on [Hashnode](https://hashnode.com/@MiCurran/joinme)
 - 🏠 Visit my [Portfolio Site](https://micurran.dev) for more about me and contact info
 - ![CodeWars Badge](https://www.codewars.com/users/MiCurran/badges/small) Join me on [Code Wars!](https://www.codewars.com/r/yjW6NQ)  
