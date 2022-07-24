@@ -35,4 +35,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re &quot;React&quot;ing Wrong &lpar;#2&rpar;](https://micurran.hashnode.dev/youre-reacting-wrong-2)
+- [You&#39;re &quot;React&quot;ing Wrong](https://micurran.hashnode.dev/youre-reacting-wrong-1)
+- [Send Emails From Web Forms in NextJS](https://micurran.hashnode.dev/send-emails-from-web-forms-in-nextjs)
+- [Creating a custom hook for fetching data in your React applications](https://micurran.hashnode.dev/creating-a-custom-hook-for-fetching-data-in-your-react-applications)
+- [Write a simple script for creating web app components](https://micurran.hashnode.dev/write-a-simple-script-for-creating-web-app-components)
 <!-- BLOG-POST-LIST:END -->
