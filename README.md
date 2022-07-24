@@ -30,4 +30,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micurran&show_icons=true&locale=en&layout=compact" alt="micurran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micurran&show_icons=true&locale=en" alt="micurran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=micurran&show_icons=true&locale=en" alt="micurran" /></p>  
+  
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
