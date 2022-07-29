@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **GOlang**
 
-- 👨‍💻 All of my projects are available at [micurran.dev](micurran.dev)
+- 👨‍💻 My personal site is at [micurran.dev](micurran.dev)
 
 - 📝 I regularly write articles on [micurran.hashnode.dev](micurran.hashnode.dev)
 
 - 💬 Ask me about **NextJS and SSR**
 
-- 📫 How to reach me **micurran.dev@gmail.com**
+- 📫 You can reach me @ **micurran.dev@gmail.com**
 
 - 📄 Check out my newsletter [https://www.getrevue.co/profile/micurran_dev](https://www.getrevue.co/profile/micurran_dev)
 
