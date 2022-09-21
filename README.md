@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/micurran_dev" target="blank"><img src="https://img.shields.io/twitter/follow/micurran_dev?logo=twitter&style=for-the-badge" alt="micurran_dev" /></a> </p>
 
-- 🌱 I’m currently learning **GOlang**
-
 - 👨‍💻 My personal site is at [micurran.dev](micurran.dev)
 
 - 📝 I regularly write articles on [micurran.hashnode.dev](micurran.hashnode.dev)
