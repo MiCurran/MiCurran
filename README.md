@@ -11,8 +11,6 @@
 
 - 📫 You can reach me @ **micurran.dev@gmail.com**
 
-- 📄 Check out my newsletter [https://www.getrevue.co/profile/micurran_dev](https://www.getrevue.co/profile/micurran_dev)
-
 - ⚡ When I'm not writing code **I'm rock climbing 🧗🏻‍♂️**
 
 <h3 align="left">Connect with me:</h3>
