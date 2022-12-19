@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<h2>Blog posts</h2>
+<h2>Blog posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [A Quick Dive Into Fresh 🍋](https://micurran.hashnode.dev/a-quick-dive-into-fresh)
