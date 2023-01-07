@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/micurran_dev" target="blank"><img src="https://img.shields.io/twitter/follow/micurran_dev?logo=twitter&style=for-the-badge" alt="micurran_dev" /></a> </p>
 
-- 👨‍💻 My personal site is at [micurran.dev](micurran.dev)
+- 👨‍💻 My personal site is at [micurran.dev](https://micurran.dev)
 
-- 📝 I regularly write articles on [micurran.hashnode.dev](micurran.hashnode.dev)
+- 📝 I regularly write articles on [micurran.hashnode.dev](https://micurran.hashnode.dev)
 
 - 💬 Ask me about **NextJS and SSR**
 
