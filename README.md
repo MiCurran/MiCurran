@@ -10,7 +10,7 @@
 
 - 📫 You can reach me @ **micurran.dev@gmail.com**
 
-- ⚡ When I'm not writing code **I'm rock climbing 🧗🏻‍♂️**
+- ⚡ When I'm not writing code **I'm rock climbing 🧗🏻‍♂️ or playing soccer ⚽️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
