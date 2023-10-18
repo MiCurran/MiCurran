@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 
-<p align="left"> <a href="https://twitter.com/micurran_dev" target="blank"><img src="https://img.shields.io/twitter/follow/micurran_dev?logo=twitter&style=for-the-badge" alt="micurran_dev" /></a> </p>
-
 - 👨‍💻 My personal site is at [micurran.dev](https://micurran.dev)
-
-- 📝 I regularly write articles on [micurran.hashnode.dev](https://micurran.hashnode.dev)
 
 - 💬 Ask me about **NextJS and SSR**
 
@@ -37,13 +33,3 @@
  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
   </a>
 </p>
-
-<h2>Blog posts </h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [A Quick Dive Into Fresh 🍋](https://micurran.hashnode.dev/a-quick-dive-into-fresh)
-- [You&#39;re &quot;React&quot;ing Wrong &lpar;#2&rpar;](https://micurran.hashnode.dev/youre-reacting-wrong-2)
-- [You&#39;re &quot;React&quot;ing Wrong](https://micurran.hashnode.dev/youre-reacting-wrong-1)
-- [Send Emails From Web Forms in NextJS](https://micurran.hashnode.dev/send-emails-from-web-forms-in-nextjs)
-- [Creating a custom hook for fetching data in your React applications](https://micurran.hashnode.dev/creating-a-custom-hook-for-fetching-data-in-your-react-applications)
-<!-- BLOG-POST-LIST:END -->
