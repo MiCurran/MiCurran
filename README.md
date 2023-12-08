@@ -4,8 +4,6 @@
 
 - 📫 You can reach me @ **micurran.dev@gmail.com**
 
-- ⚡ When I'm not writing code **I'm rock climbing 🧗🏻‍♂️ or playing soccer ⚽️**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mi-curran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="micurran" height="30" width="40" /></a>
